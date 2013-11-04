@@ -1,0 +1,6 @@
+BMP085 pressure sensor library.
+
+This project contains code from
+
+- http://lm-sensors.org/ (src/smbus.*)
+- http://www.john.geek.nz/2013/02/update-bosch-bmp085-source-raspberry-pi/ (bmp085.c)
