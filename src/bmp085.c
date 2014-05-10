@@ -157,4 +157,6 @@ unsigned int bmp085_read_temp() {
     return (b5 + 8) >> 4;
 }
 
-/* vim: sw=4:et:ai */
+/*
+ * vim: sw=4:et:ai
+ */
